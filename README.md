@@ -7,7 +7,7 @@
     <a href="chapter-1/ex.1.1.c">Упражнение 1.1</a>
   </li>
   <li>
-    <a href="">Упражнение 1.2</a>
+    <a href="chapter-1/ex.1.2.c">Упражнение 1.2</a>
   </li>
 </ul>
 
