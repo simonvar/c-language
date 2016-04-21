@@ -4,11 +4,10 @@
 <h1>Глава 1</h1>
 <ul>
   <li>
-    <a href="Base/helo-world.c">Hello world!</a>
-  <p><i>Just hello</i></p>
+    <a href="chapter-1/ex.1.1.c">Упражнение 1.1</a>
   </li>
   <li>
-  
+    <a href="">Упражнение 1.2</a>
   </li>
 </ul>
 
