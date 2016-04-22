@@ -4,9 +4,9 @@ main(){
     float fahr, celsius;
     int lower, upper, step;
 
-    lower = 0; //нижняя граница
-    upper = 300; //верхняя граница
-    step = 20; //величина шага
+    lower = 0; /*РЅРёР¶РЅРёР№ РїСЂРµРґРµР»*/
+    upper = 300; /*РІРµСЂС…РЅРёР№ РїСЂРµРґРµР»*/
+    step = 20; /*С€Р°Рі*/
     printf("  Translate F deg. in C deg.\n");
     printf("\t F     C\n");
 
