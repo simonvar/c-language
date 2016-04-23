@@ -12,5 +12,11 @@
   <li>
     <a href="chapter-1/ex.1.3.c">Упражнение 1.3</a>
   </li>
+  <li>
+    <a href="chapter-1/ex.1.4.c">Упражнение 1.4</a>
+  </li>
+  <li>
+    <a href="chapter-1/ex.1.5.c">Упражнение 1.5</a>
+  </li>
 </ul>
 
