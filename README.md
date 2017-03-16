@@ -44,3 +44,8 @@ Decisions of exercises from the book "The C Programming Language" by Brian Kerni
 
 <s><h1>Chapter 2</h1></s>
 <s><h1>Chapter 3</h1></s>
+<s><h1>Chapter 4</h1></s>
+<s><h1>Chapter 5</h1></s>
+<s><h1>Chapter 6</h1></s>
+<s><h1>Chapter 7</h1></s>
+<s><h1>Chapter 8</h1></s>
