@@ -1,32 +1,32 @@
-# Язык программирования C
-Решения упражнений из книги "Язык программирования C" Брайана Кернигана и Денниса Ритчи.
+# The C Programming Language
+Decisions of exercises from the book "The C Programming Language" by Brian Kernigan and Dennis Ritchie.
 
 
-<h1>Глава 1</h1>
+<h1>Chapter 1</h1>
 <ul>
   <li>
-    <a href="chapter-1/ex.1.1.c">Упражнение 1.1</a>
+    <a href="chapter-1/ex.1.1.c">Exercice 1.1</a>
   </li>
   <li>
-    <a href="chapter-1/ex.1.2.c">Упражнение 1.2</a>
+    <a href="chapter-1/ex.1.2.c">Exercice 1.2</a>
   </li>
   <li>
-    <a href="chapter-1/ex.1.3.c">Упражнение 1.3</a>
+    <a href="chapter-1/ex.1.3.c">Exercice 1.3</a>
   </li>
   <li>
-    <a href="chapter-1/ex.1.4.c">Упражнение 1.4</a>
+    <a href="chapter-1/ex.1.4.c">Exercice 1.4</a>
   </li>
   <li>
-    <a href="chapter-1/ex.1.5.c">Упражнение 1.5</a>
+    <a href="chapter-1/ex.1.5.c">Exercice 1.5</a>
   </li>
    <li>
-    <a href="chapter-1/ex.1.6.c">Упражнение 1.6</a>
+    <a href="chapter-1/ex.1.6.c">Exercice 1.6</a>
   </li>
    <li>
-    <a href="chapter-1/ex.1.7.c">Упражнение 1.7</a>
+    <a href="chapter-1/ex.1.7.c">Exercice 1.7</a>
   </li>
 </ul>
 
-<s><h1>Глава 2</h1></s>
-<s><h1>Глава 3</h1></s>
+<s><h1>Chapter 2</h1></s>
+<s><h1>Chapter 3</h1></s>
 
