@@ -1,12 +1,18 @@
+/*
+Exercice  1.3
+
+Modify the temperature conversion program to print a heading above the table.
+*/
+
 #include <stdio.h>
 
 main(){
     float fahr, celsius;
     int lower, upper, step;
 
-    lower = 0; /*нижний предел*/
-    upper = 300; /*верхний предел*/
-    step = 20; /*шаг*/
+    lower = 0;
+    upper = 300;
+    step = 20;
     printf("  Translate F deg. in C deg.\n");
     printf("\t F     C\n");
 

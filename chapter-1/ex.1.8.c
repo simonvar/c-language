@@ -1,7 +1,12 @@
+/*
+Exercice 1.8
+
+Write a program to count blanks, tabs, and newlines.
+*/
+
 #include <stdio.h>
 
 int main(){
-
     long space, tab, end;
     char c;
     space = 0;
@@ -18,5 +23,7 @@ int main(){
     }
 
     printf("space = %ld\ntab = %ld\nend = %ld\n", space, tab, end);
-    system("pause");
+    getchar();
+
+    return 0;
 }
