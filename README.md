@@ -19,7 +19,6 @@ Decisions of exercises from the book "The C Programming Language" by Brian Kerni
     <li>
         <a href="chapter-1/ex.1.5.c">Exercice 1.5</a>
     </li>
-
     <li>
         <a href="chapter-1/ex.1.6.c">Exercice 1.6</a>
     </li>
